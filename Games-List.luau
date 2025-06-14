@@ -22,6 +22,7 @@ local Games = {
     [116614712661486] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Arise%20Crossover.lua", -- Arise Crossover AFK Reward
     [85896571713843] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Bubble%20Gum%20Simulator%20INFINITY.lua", -- Bubble Gum Simulator INFINITY
     [91867617264223] = "https://raw.githubusercontent.com/AhmadV99/Script-Games/refs/heads/main/Grow%20a%20Garden.lua", -- Grow a Garden Alt
+    [1537690962] = "https://raw.githubusercontent.com/Chris12089/atlasbss/main/script.lua", -- Bee Swarm Simulator
 }
 
 return Games
